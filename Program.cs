@@ -13,6 +13,14 @@ internal class Program
             {
                 Console.WriteLine("Кратно");
             }
+            else
+            {
+                Console.WriteLine("Не_кратно")
+            }
+        }
+        else
+        {
+            Console.WriteLine("Не_кратно")
         }
     }
 }
